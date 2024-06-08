@@ -1,0 +1,6 @@
+body {
+    background-image: url('fondo.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Cambio a fixed para probar */
+  }
+  

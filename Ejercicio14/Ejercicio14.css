@@ -1,0 +1,17 @@
+h1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ff1100e7;
+}
+
+h2 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #001affe0;
+}
+
+h3 {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: #01010e00;
+}
